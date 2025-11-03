@@ -4,9 +4,11 @@
 
 > 
 
-1️⃣ Question 1:
-What is the primary factor limiting the natural speed at which microbes break down oil spills?
+1️⃣ Question 1: What is the primary factor limiting the natural speed at which microbes break down oil spills?
+
 ✅ Answer: A lack of sufficient nutrients, such as nitrogen, in the environment.
+
+.
 
 2️⃣ Question 2:
 According to the video, why is a major oil spill such a complex environmental disaster?
