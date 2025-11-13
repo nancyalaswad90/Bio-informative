@@ -1,6 +1,6 @@
 > # Bio-informative
 > 
-Requirements and insights 
+> **Requirements and insights 
 
 
 
