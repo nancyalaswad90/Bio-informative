@@ -1,5 +1,5 @@
-![1000122741](https://github.com/user-attachments/assets/5ea91ed6-f2dc-4f5c-be89-fb847bb242a2)
-> # Bio-informative
+
+ # Bio-informative
 > 
 > 
 > **Requirements and insights**
