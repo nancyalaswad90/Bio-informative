@@ -9,7 +9,8 @@
 -
 - Using these slides, create a detailed talk track for each slide in the presentation.
 -
--
+
+- make them google slides
 -
   
   
