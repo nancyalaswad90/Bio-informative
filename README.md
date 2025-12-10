@@ -7,8 +7,9 @@
     - Based on all sources in this notebook, create a 12-slide outline titled “The AI’s impact on Human life”. Each slide should include a title, three or four key points, and short source notes for credibility.
     - 
 - Gemini
-      - use canvas
-      - Turn this into a 12-slide presentation. Add short slide headlines, smooth transitions, and suggest relevant visuals like timelines, charts, and key quotes.
+     - use canvas
+     - prompt  :   Turn this into a 12-slide presentation. Add short slide headlines, smooth transitions, and suggest relevant visuals like timelines, charts, and key quotes.
+     - copy ideas from **Notebook ML**
 - 
 
 
