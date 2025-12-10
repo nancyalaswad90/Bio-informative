@@ -13,6 +13,12 @@
 - make them google slides
 -
   
+  .
+
+
+create the presentation from the images provided , please make first slide as address with ideas in image 000 , please add instructor ا . د . محمد الزعبي and make the output file a powerpoint , make them Google Slides , remove the signiture below as Notebook Ml
+
+Using these slides, create a detailed talk track for each slide in the presentation, and make them Google Slides.
   
   .
 
