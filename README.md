@@ -1,4 +1,13 @@
 
+.
+
+> ## Three sites to generat powerpoint presentation
+>
+- Notebook ML
+- Gemini
+- 
+
+
 > ## The required Prompt for slides
 
 
