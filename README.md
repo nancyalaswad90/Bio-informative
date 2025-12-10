@@ -1,4 +1,19 @@
-.
+
+> ## The required Prompt for slides
+
+
+
+
+
+- Create a presentation on the challenges and opportunities of implementing generative AI in the workplace
+-
+- Using these slides, create a detailed talk track for each slide in the presentation.
+-
+-
+-
+  
+  
+  .
 
 
 > ## [PRESENTATION vEDIO ](https://notebooklm.google.com/notebook/99a0b908-4b78-4342-8aa6-333cf755d7b9)
