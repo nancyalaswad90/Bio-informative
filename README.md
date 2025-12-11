@@ -2,10 +2,13 @@
 .
 
 > ## [Three sites to generat powerpoint presentation](https://www.youtube.com/watch?v=Hjj5Z-zblWQ)
+
+>
 >
 - Notebook ML
     - Based on all sources in this notebook, create a 12-slide outline titled “The AI’s impact on Human life”. Each slide should include a title, three or four key points, and short source notes for credibility.
-    - 
+ 
+      
 - Gemini
      - use canvas
      - prompt  :   Turn this into a 12-slide presentation. Add short slide headlines, smooth transitions, and suggest relevant visuals like timelines, charts, and key quotes.
