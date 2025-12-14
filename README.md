@@ -7,6 +7,7 @@
 >
 >
 - Notebook ML
+- 
     - Based on all sources in this notebook, create a 12-slide outline titled “The AI’s impact on Human life”. Each slide should include a title, three or four key points, and short source notes for credibility.
  
       
