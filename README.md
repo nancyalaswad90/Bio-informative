@@ -28,6 +28,20 @@
 .
 
 
+
+
+----
+
+- حوّلها إلى عروض تقديمية على جوجل سلايدز
+
+- هل يمكنك تلخيص هذا الملف وإنشاء 15 عرضًا تقديميًا على جوجل سلايدز من محتوى الفصل السادس؟ يرجى جعل الشريحة الأولى تحمل عنوان الفصل كما هو موضح في الصورة كمثال.
+
+----------
+
+- make them Google Slides   ....    Google Slides
+
+- Can you summarize this file and make 15 Google Slides from the content in chapter 6, and please make the first slide with the chapter title as an example in the image?
+
 ========================================
 
 
