@@ -17,7 +17,21 @@
 
 - make them google slides   ....    Google Slides
 
+- can you summarize this file and make 10 Google Slides from the content
 
+
+and please make the first slide with the chapter title and :
+
+- Presented by Nancy Al-aswed  and Wafa  Alghzzawi
+
+- The instructor, Dr. Belal A l Shomali
+
+
+
+.
+
+
+========================================
 
 
 .
