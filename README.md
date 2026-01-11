@@ -1,6 +1,3 @@
-.
-
-متلها lab 7 مع Materials
 
 
 .
