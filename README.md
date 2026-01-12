@@ -4,8 +4,6 @@
 
 
 
-
-
 - [vedio motion](https://www.facebook.com/share/v/1C6Q2Gw1BF/)
 
 
