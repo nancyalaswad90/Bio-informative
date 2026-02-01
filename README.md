@@ -1,7 +1,7 @@
 .
 
 
-- [](https://www.linkedin.com/posts/suketusanghvi_financialeducation-talentdevelopment-futureofwork-activity-7422956853656977409-5Nb1?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAB6kKDABwjQpJtHzA4MwCLRNaOLN7ZAvmag&utm_campaign=copy_link)
+- [vedioAi](https://www.linkedin.com/posts/suketusanghvi_financialeducation-talentdevelopment-futureofwork-activity-7422956853656977409-5Nb1?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAB6kKDABwjQpJtHzA4MwCLRNaOLN7ZAvmag&utm_campaign=copy_link)
 
 
 
