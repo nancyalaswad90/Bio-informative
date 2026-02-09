@@ -2,7 +2,7 @@
 
 > ##
 
-- 
+-[Master Journal](https://mjl.clarivate.com/search-results) 
 [تعليمات مكافأة تشجيع نشر بحث علمي 16-12-2024.pdf](https://github.com/user-attachments/files/25174917/16-12-2024.pdf)
 
 
