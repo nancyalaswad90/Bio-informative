@@ -13,7 +13,7 @@
 
 .
 
-https://youtube.com/@nancy-alaswadbi?si=JtKxQZbD-vhr3J6j
+- [Nancy Al Aswad  - Business intelligence ](https://youtube.com/@nancy-alaswadbi?si=JtKxQZbD-vhr3J6j)
 
 
 @NancyAhmad
