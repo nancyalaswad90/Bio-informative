@@ -9,11 +9,13 @@
 
 
 
-[ N8N AI Agents](https://youtu.be/pNVkW8RxEIY?si=OMLte55PTwVeFFov)
+
 
 .
 
 - [Nancy Al Aswad  - Business intelligence ](https://youtube.com/@nancy-alaswadbi?si=JtKxQZbD-vhr3J6j)
+  
+- [ N8N AI Agents](https://youtu.be/pNVkW8RxEIY?si=OMLte55PTwVeFFov)
 
 
 @NancyAhmad
