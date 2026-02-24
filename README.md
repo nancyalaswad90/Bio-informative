@@ -7,7 +7,7 @@
 
 .
 
-[تحليل البيانات عربي](https://youtube.com/playlist?list=PLwortQlzNB44fe3p1zD9JItr0SBtdJSnz&si=exQyPkgmgNTB6lgc)
+[BA تحليل البيانات عربي](https://youtube.com/playlist?list=PLwortQlzNB44fe3p1zD9JItr0SBtdJSnz&si=exQyPkgmgNTB6lgc)
 
 
 
