@@ -4,6 +4,7 @@
 
 > ## [New Coursera](  ... )
 
+- [calculase](https://youtube.com/playlist?list=PLgtJGKGTIhBq_m35ENWzUTnbZGzHssMnQ&si=bWgqIFk0y9S3dCXA)
 
 
 [](https://www.facebook.com/share/r/17Wa3Jt4qu/)
