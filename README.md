@@ -7,12 +7,13 @@
 - [calculase](https://youtube.com/playlist?list=PLgtJGKGTIhBq_m35ENWzUTnbZGzHssMnQ&si=bWgqIFk0y9S3dCXA)
 
 
-[](https://www.facebook.com/share/r/17Wa3Jt4qu/)
+- [](https://www.facebook.com/share/r/17Wa3Jt4qu/)
 
 
 - [Work Bio informative Jordan](https://www.facebook.com/share/17QfuJSXs2/)
-- 
-[Research in Bio](https://www.facebook.com/share/1AczJPT4Cz/)
+
+  
+- [Research in Bio](https://www.facebook.com/share/1AczJPT4Cz/)
 
 
 [NotebookMl](https://youtu.be/1l11Qn_P8r0?si=LKyzi8HQL8fuQeaM)
