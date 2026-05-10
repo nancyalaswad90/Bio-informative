@@ -3,6 +3,9 @@
 [بحث اليوم العالمي.pdf](https://github.com/user-attachments/files/27512638/default.pdf)
 
 
+.
+
+The event in 10-5-2026
 
 
 .
