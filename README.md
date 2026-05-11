@@ -1,3 +1,15 @@
+
+
+
+.
+
+https://www.linkedin.com/posts/nancy-al-aswad-b001b4124_aeuaepaeuaebaeyabraepaesaelaebaewaex-aesaevaesaeyaesabraepaesaeqaeyaepaeuaepaes-share-7459299564194267136-_Lpe?utm_source=share&utm_medium=member_android&rcm=ACoAAB6kKDABwjQpJtHzA4MwCLRNaOLN7ZAvmag
+
+.
+
+
+
+
 <img width="832" height="1248" alt="85c10382-5526-4e8e-9807-df7c460f85f7" src="https://github.com/user-attachments/assets/a438a59c-e332-4118-8bb8-d9c80a0a0c05" /> 
 
 [بحث اليوم العالمي.pdf](https://github.com/user-attachments/files/27512638/default.pdf)
