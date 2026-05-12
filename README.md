@@ -1,5 +1,8 @@
 
+.
 
+
+LinkedIn idea : https://www.linkedin.com/posts/waleedtalal_%D8%B1%D9%87%D9%8A%D9%8A%D8%A8-%D9%88%D8%A7%D9%84%D9%84%D9%87-%D8%AA%D8%AE%D9%8A%D9%84-%D8%A5%D9%86-claude-%D8%A7%D9%84%D8%A2%D9%86-%D8%AC%D8%B2%D8%A1%D8%A7-share-7459544647481298944-yhLM?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAB6kKDABwjQpJtHzA4MwCLRNaOLN7ZAvmag&utm_campaign=copy_link
 
 .
 
