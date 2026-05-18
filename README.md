@@ -1,6 +1,6 @@
 
 
-> ## site Qr code [here](https://me-qr.com/)
+> ## site Qr code [here](https://me-qr.com/)  بتنسخي  رابط الفيديو وبتحطي على هذا  الموقع
 
 
 
