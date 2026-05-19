@@ -1,6 +1,13 @@
 .
 
 
+> ### - [List كيمياء عامة ](https://www.youtube.com/@3loom/courses)
+
+
+
+.
+
+
 > ## site Qr code [here](https://me-qr.com/)  بتنسخي  رابط الفيديو وبتحطي على هذا  الموقع
 
 .
