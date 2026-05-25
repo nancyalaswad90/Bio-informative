@@ -2,9 +2,10 @@
 
 > ##
 >
-- [Notebook كيف يعرف العلماء ما في جينومك؟ ](https://notebooklm.google.com/notebook/a09e40ad-d41f-43af-a3ca-5fc82bd459e5)
-- [Notebook كيف يعرف العلماء ما في جينومك؟ ](https://notebooklm.google.com/notebook/a09e40ad-d41f-43af-a3ca-5fc82bd459e5)
+- [Notebook اقتصاديات علم الجينوم: كفاءة الذكاء الاصطناعي في تحليل التسلسل](https://notebooklm.google.com/notebook/70ae7900-c77a-4c83-a8a9-ffce6e770d35)
 .
+- [Notebook كيف يعرف العلماء ما في جينومك؟ ](https://notebooklm.google.com/notebook/a09e40ad-d41f-43af-a3ca-5fc82bd459e5)
+
 
 
 > ### - [List كيمياء عامة ](https://www.youtube.com/@3loom/courses)
