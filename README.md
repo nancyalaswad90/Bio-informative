@@ -7,6 +7,9 @@
 - [Notebook كيف يعرف العلماء ما في جينومك؟ ](https://notebooklm.google.com/notebook/a09e40ad-d41f-43af-a3ca-5fc82bd459e5)
 
 
+- [desion system](https://youtu.be/GvUxkxTQqro?si=_cTIbkYLyqh92G49)
+
+
 
 > ### - [List كيمياء عامة ](https://www.youtube.com/@3loom/courses)
 
